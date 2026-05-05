@@ -1,6 +1,6 @@
 # Chore Tracker Add-on for Home Assistant
 
-Backend service for the [Chore Tracker Card](https://github.com/somethingp/chore-tracker-card). Stores chore state in `/data/chores.json` so all devices stay in sync.
+Backend service for the [Chore Tracker Card](https://github.com/YOUR_USERNAME/chore-tracker-card). Stores chore state in `/data/chores.json` so all devices stay in sync.
 
 ## Features
 

@@ -25,4 +25,4 @@ hassio_api: false
 auth_api: false
 options: {}
 schema: {}
-image: "ghcr.io/{context}/chore-tracker-addon/{arch}"
+image: "ghcr.io/somethingp/chore-tracker-addon/{arch}"

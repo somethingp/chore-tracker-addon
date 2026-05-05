@@ -8,5 +8,5 @@ squash: false
 labels:
   org.opencontainers.image.title: "Chore Tracker"
   org.opencontainers.image.description: "Household chore tracking backend for Home Assistant"
-  org.opencontainers.image.source: "https://github.com/{context}"
+  org.opencontainers.image.source: "https://github.com/somethingp/chore-tracker-addon"
   org.opencontainers.image.licenses: "MIT"
