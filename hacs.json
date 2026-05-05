@@ -1,6 +1,0 @@
-{
-  "name": "Chore Tracker",
-  "content_in_root": false,
-  "render_readme": true,
-  "homeassistant": "2023.1.0"
-}
