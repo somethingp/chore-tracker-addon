@@ -1,6 +1,6 @@
 # Chore Tracker Add-on for Home Assistant
 
-Backend service for the [Chore Tracker Card](https://github.com/YOUR_USERNAME/chore-tracker-card). Stores chore state in `/data/chores.json` so all devices stay in sync.
+Backend service for the [Chore Tracker Card](https://github.com/somethingp/chore-tracker-card). Stores chore state in `/data/chores.json` so all devices stay in sync.
 
 ## Features
 
@@ -17,7 +17,7 @@ This add-on is installed through the **HA Supervisor add-on store** — not HACS
 
 **Settings → Add-ons → Add-on Store → ⋮ (top right) → Repositories**
 
-Paste: `https://github.com/YOUR_USERNAME/chore-tracker-addon`
+Paste: `https://github.com/somethingp/chore-tracker-addon`
 
 Click **Add**, then close the dialog.
 
@@ -34,7 +34,7 @@ Check the **Log** tab and confirm you see:
 ### 3. Install the companion Lovelace card
 
 Install the **Chore Tracker Card** via HACS Frontend:
-👉 [github.com/YOUR_USERNAME/chore-tracker-card](https://github.com/YOUR_USERNAME/chore-tracker-card)
+👉 [github.com/somethingp/chore-tracker-card](https://github.com/somethingp/chore-tracker-card)
 
 ## API reference
 
